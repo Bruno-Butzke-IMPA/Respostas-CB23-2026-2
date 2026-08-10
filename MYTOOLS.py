@@ -9,4 +9,4 @@ def pi_real(numero):
 def e_real(numero):
     if numero < 0 or numero > 100 or type(numero) is not int:
             return
-    return '3,' + E_INT[:numero:]
+    return '2,' + E_INT[:numero:]
