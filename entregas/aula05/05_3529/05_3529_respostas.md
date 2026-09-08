@@ -1,4 +1,4 @@
-<!-- utilizado IA somente para formatação em markdown -->
+<!-- utilizado IA somente para formatação em markdown. -->
 
 # Respostas
 
